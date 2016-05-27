@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77dc9246eee5e7f4dbef691bb7f71c39
+timeCreated: 1436740487
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - paletteMaterial: {fileID: 2100000, guid: c7ba74ddbf68b994ca8f303f071569b2, type: 2}
+  - paletteTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
